@@ -22,3 +22,4 @@
 ## Day 3: 2nd June 2021
 
 - Watched a few talks from [Deserted Island DevOps 2021](https://desertedisland.club/)
+- Took some AZ-104 practise exams and reviewed any incorrect answers
