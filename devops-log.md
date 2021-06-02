@@ -24,4 +24,4 @@
 - Watched a few talks from [Deserted Island DevOps 2021](https://desertedisland.club/)
 - Took some AZ-104 practise exams and reviewed any incorrect answers
 - Collated on-boarding notes for new DevOps Engineer role
-- Watched the workshop presentation for [CI/CD Pipelines](https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module2-cicd-pipelines-ty.html) module of the AWS DevOps Workshop Series
+- Watched the workshop presentation for [CI/CD Pipelines](https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module2-cicd-pipelines-ty.html) module of the AWS DevOps Workshop Series (_bookmark:45min_)
