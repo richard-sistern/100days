@@ -16,3 +16,9 @@
 - Took some AZ-104 practise exams and reviewed any incorrect answers
 
 ## Day 2: 1st June 2021
+
+- Read some more of [The High Velocity Edge](https://www.goodreads.com/review/show/4032234298?utm_medium=api&utm_source=rss)
+
+## Day 3: 2nd June 2021
+
+- Watched a few talks from [Deserted Island DevOps 2021](https://desertedisland.club/)
