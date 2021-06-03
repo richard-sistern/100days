@@ -29,3 +29,6 @@
 ## Day 4: 3rd June 2021
 
 - Finished watching the workshop presentation for [CI/CD Pipelines](https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module2-cicd-pipelines-ty.html) module of the AWS DevOps Workshop Series
+- Started GitLab hands on lab
+
+BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
