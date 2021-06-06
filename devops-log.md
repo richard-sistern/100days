@@ -36,8 +36,13 @@ BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
 ## Day 5: 4th June 2021
 
 - Read some more of [High Velocity Edge](https://www.goodreads.com/review/show/4032234298?utm_medium=api&utm_source=rss) 
+- Worked through some [Docker Handbook examples](https://github.com/richard-sistern/docker/blob/main/fcc-handbook/NOTES.md)
 
 ## Day 6: 5th June 2021
 
 - Read some more of [High Velocity Edge](https://www.goodreads.com/review/show/4032234298?utm_medium=api&utm_source=rss) 
+
+## Day 7: 6th June 2021
+
+- Finished reading the [High Velocity Edge](https://www.goodreads.com/review/show/4032234298?utm_medium=api&utm_source=rss) 
 
