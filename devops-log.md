@@ -50,6 +50,7 @@
   - [Migrate Azure Repos using Azure DevOps Pipelines](https://dev.to/ghostinthewire5/migrate-azure-repos-using-azure-devops-pipelines-26bo)
   - [Learn Kubernetes, Part I, Basics, Deployment and Minikube](https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd)
 - Trialled [Minikube](https://minikube.sigs.k8s.io/) and [Kubernetes on Docker Desktop](https://www.docker.com/products/kubernetes)
+- Started working through the examples in [Kubernetes from the beginning](https://dev.to/softchris/series/1067), with added [notes](https://github.com/richard-sistern/kubernetes)
 
 ## TODO
 
