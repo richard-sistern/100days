@@ -46,3 +46,8 @@ BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
 
 - Finished reading the [High Velocity Edge](https://www.goodreads.com/review/show/4032234298?utm_medium=api&utm_source=rss) 
 
+## Day 8: 7th June 2021
+
+- Read some articles on Azure
+  - [Migrate Azure Repos using Azure DevOps Pipelines](https://dev.to/ghostinthewire5/migrate-azure-repos-using-azure-devops-pipelines-26bo)
+  - [Learn Kubernetes, Part I, Basics, Deployment and Minikube](https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd)
