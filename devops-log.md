@@ -31,8 +31,6 @@
 - Finished watching the workshop presentation for [CI/CD Pipelines](https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-module2-cicd-pipelines-ty.html) module of the AWS DevOps Workshop Series
 - Started GitLab hands on lab
 
-BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
-
 ## Day 5: 4th June 2021
 
 - Read some more of [High Velocity Edge](https://www.goodreads.com/review/show/4032234298?utm_medium=api&utm_source=rss) 
@@ -48,6 +46,10 @@ BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
 
 ## Day 8: 7th June 2021
 
-- Read some articles on Azure
+- Read the following articles:
   - [Migrate Azure Repos using Azure DevOps Pipelines](https://dev.to/ghostinthewire5/migrate-azure-repos-using-azure-devops-pipelines-26bo)
   - [Learn Kubernetes, Part I, Basics, Deployment and Minikube](https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd)
+
+## TODO
+
+- BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
