@@ -55,6 +55,7 @@
 ## Day 9: 8th June 2021
 
 - Started reading [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
+- Carried on with [Kubernetes from the beginning](https://dev.to/softchris/series/1067)
 
 ## TODO
 
