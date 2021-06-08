@@ -52,6 +52,10 @@
 - Trialled [Minikube](https://minikube.sigs.k8s.io/) and [Kubernetes on Docker Desktop](https://www.docker.com/products/kubernetes)
 - Started working through the examples in [Kubernetes from the beginning](https://dev.to/softchris/series/1067), with added [notes](https://github.com/richard-sistern/kubernetes)
 
+## Day 9: 8th June 2021
+
+- Started reading [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
+
 ## TODO
 
 - BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
