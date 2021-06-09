@@ -57,6 +57,12 @@
 - Started reading [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
 - Carried on with part 3 of [Kubernetes from the beginning](https://dev.to/softchris/series/1067)
 
+## Day 9: 8th June 2021
+
+- Read the following articles:
+  - [Brain Time Vs. Butt Time: Improve Developer Productivity](https://linearb.io/blog/improve-developer-productivity-with-brain-time)
+
+
 ## TODO
 
 - BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
