@@ -59,8 +59,9 @@
 
 ## Day 9: 8th June 2021
 
-- Read the following articles:
-  - [Brain Time Vs. Butt Time: Improve Developer Productivity](https://linearb.io/blog/improve-developer-productivity-with-brain-time)
+- Read [Brain Time Vs. Butt Time: Improve Developer Productivity](https://linearb.io/blog/improve-developer-productivity-with-brain-time)
+- Attended [o11con](https://o11ycon-hnycon.io/)
+- Watched [Dev Tool Time with Suz Hinton](https://www.youtube.com/watch?v=nNPWV1igjt8)
 
 
 ## TODO
