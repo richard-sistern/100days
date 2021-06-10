@@ -63,6 +63,10 @@
 - Attended [o11con](https://o11ycon-hnycon.io/)
 - Watched [Dev Tool Time with Suz Hinton](https://www.youtube.com/watch?v=nNPWV1igjt8)
 
+## Day 10: 9th June 2021
+
+- Watched [The New Faces of Continuous Improvement](https://www.youtube.com/watch?v=5sAJ3N6KNdQ)
+- NSX Deep Dive
 
 ## TODO
 
