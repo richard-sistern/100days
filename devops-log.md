@@ -67,6 +67,7 @@
 
 - Watched [The New Faces of Continuous Improvement](https://www.youtube.com/watch?v=5sAJ3N6KNdQ)
 - NSX Deep Dive
+- Introduction to Observability With Honeycomb workshop with [Liz Fong-Jones](https://twitter.com/lizthegrey)
 
 ## TODO
 
