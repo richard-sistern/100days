@@ -69,6 +69,10 @@
 - NSX Deep Dive
 - Introduction to Observability With Honeycomb workshop with [Liz Fong-Jones](https://twitter.com/lizthegrey)
 
+## Day 11: 10th June 2021
+
+- Read [https://devblogs.microsoft.com/scripting/debugging-powershell-script-in-visual-studio-code-part-1/](https://devblogs.microsoft.com/scripting/debugging-powershell-script-in-visual-studio-code-part-1/)
+
 ## TODO
 
 - BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
