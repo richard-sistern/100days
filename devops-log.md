@@ -72,6 +72,7 @@
 ## Day 11: 10th June 2021
 
 - Read [https://devblogs.microsoft.com/scripting/debugging-powershell-script-in-visual-studio-code-part-1/](https://devblogs.microsoft.com/scripting/debugging-powershell-script-in-visual-studio-code-part-1/)
+- Worked through the examples in [Learn Kubernetes - Scaling my App](https://dev.to/azure/kubernetes-part-iii-scaling-1mmi)
 
 ## TODO
 
