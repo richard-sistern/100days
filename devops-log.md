@@ -74,6 +74,10 @@
 - Read [https://devblogs.microsoft.com/scripting/debugging-powershell-script-in-visual-studio-code-part-1/](https://devblogs.microsoft.com/scripting/debugging-powershell-script-in-visual-studio-code-part-1/)
 - Worked through the examples in [Learn Kubernetes - Scaling my App](https://dev.to/azure/kubernetes-part-iii-scaling-1mmi)
 
+## Day 12: 12th June 2021
+
+- Read [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
+
 ## TODO
 
 - BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
