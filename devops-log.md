@@ -82,6 +82,7 @@
 
 - Read [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
 - Watched [Ansible vs. Terraform: What's the difference?](https://youtu.be/rx4Uh3jv1cA)
+- Read [Measuring enterprise developer productivity](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/)
 
 ## TODO
 
