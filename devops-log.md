@@ -57,28 +57,28 @@
 - Started reading [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
 - Carried on with part 3 of [Kubernetes from the beginning](https://dev.to/softchris/series/1067)
 
-## Day 9: 9th June 2021
+## Day 10: 9th June 2021
 
 - Read [Brain Time Vs. Butt Time: Improve Developer Productivity](https://linearb.io/blog/improve-developer-productivity-with-brain-time)
 - Attended [o11con](https://o11ycon-hnycon.io/)
 - Watched [Dev Tool Time with Suz Hinton](https://www.youtube.com/watch?v=nNPWV1igjt8)
 
-## Day 10: 10th June 2021
+## Day 11: 10th June 2021
 
 - Watched [The New Faces of Continuous Improvement](https://www.youtube.com/watch?v=5sAJ3N6KNdQ)
 - NSX Deep Dive
 - Introduction to Observability With Honeycomb workshop with [Liz Fong-Jones](https://twitter.com/lizthegrey)
 
-## Day 11: 11th June 2021
+## Day 12: 11th June 2021
 
 - Read [https://devblogs.microsoft.com/scripting/debugging-powershell-script-in-visual-studio-code-part-1/](https://devblogs.microsoft.com/scripting/debugging-powershell-script-in-visual-studio-code-part-1/)
 - Worked through the examples in [Learn Kubernetes - Scaling my App](https://dev.to/azure/kubernetes-part-iii-scaling-1mmi)
 
-## Day 12: 12th June 2021
+## Day 13: 12th June 2021
 
 - Read [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
 
-## Day 13: 13th June 2021
+## Day 14: 13th June 2021
 
 - Read [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
 - Watched [Ansible vs. Terraform: What's the difference?](https://youtu.be/rx4Uh3jv1cA)
