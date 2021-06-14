@@ -85,6 +85,10 @@
 - Read [Measuring enterprise developer productivity](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/)
 - Finished [Kubernetes from the beginning](https://dev.to/azure/kubernetes-from-the-beginning-part-iv-autoscaling-54l6)
 
+## Day 15: 14th June 2021
+
+- Carried on [learning Docker](https://www.freecodecamp.org/news/the-docker-handbook)
+
 ## TODO
 
 - BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
