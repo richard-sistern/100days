@@ -92,10 +92,11 @@
 ## Day 16: 15th June 2021
 
 - Read [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
-
-
 - Investigated [GitHub actions](https://github.com/actions/starter-workflows)
 - Studied for the AZ104 exam
+- Attended Microsoft Tech Days - DevOps 101 for Developers
+
+## Day 17: 16th June 2021
 
 ## TODO
 
