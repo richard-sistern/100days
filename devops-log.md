@@ -98,6 +98,18 @@
 
 ## Day 17: 16th June 2021
 
+- Studied for the AZ104 exam
+
+
+## Day 18: 17th June 2021
+
+- Studied for the AZ104 exam
+
+
+## Day 19: 18th June 2021
+
+- Studied for the AZ104 exam
+
 ## TODO
 
 - BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
