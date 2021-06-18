@@ -99,10 +99,12 @@
 ## Day 17: 16th June 2021
 
 - Studied for the AZ104 exam
+- Read [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
 
 
 ## Day 18: 17th June 2021
 
+- Read [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
 - Studied for the AZ104 exam
 
 
