@@ -125,6 +125,10 @@
 
 - Studied for the AZ104 exam
 
+## Day 23: 22nd June 2021
+
+- Passed the [Azure Administrator Associate (AZ-104)](https://www.credly.com/badges/4b0654c7-2f3b-4568-b2f5-e948d46c88aa) exam
+
 ## TODO
 
 - BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
