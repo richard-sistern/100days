@@ -133,7 +133,7 @@
 
 - Day off!
 
-## Day 25: 24thJune 2021
+## Day 25: 24th June 2021
 
 - Attended a NorDev talk[Refactoring Is Not Just Clickbait](https://youtu.be/SdTzx0R6JIs) by Kevlin Henney
 
