@@ -129,6 +129,14 @@
 
 - Passed the [Azure Administrator Associate (AZ-104)](https://www.credly.com/badges/4b0654c7-2f3b-4568-b2f5-e948d46c88aa) exam
 
+## Day 24: 23rd June 2021
+
+- Day off!
+
+## Day 25: 24thJune 2021
+
+- Attended a NorDev talk[Refactoring Is Not Just Clickbait](https://youtu.be/SdTzx0R6JIs) by Kevlin Henney
+
 ## TODO
 
 - BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
