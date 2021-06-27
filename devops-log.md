@@ -143,6 +143,16 @@
 - Read [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
 - Started [learning Terraform](https://github.com/richard-sistern/terraform)
 
+## Day 27: 26th June 2021
+
+- Read [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
+- Kept [learning Terraform](https://github.com/richard-sistern/terraform)
+
+## Day 28: 27th June 2021
+
+- Read [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
+- Kept [learning Terraform](https://github.com/richard-sistern/terraform)
+
 ## TODO
 
 - BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
