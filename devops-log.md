@@ -156,6 +156,7 @@
 ## Day 29: 28th June 2021
 
 - First day as a DevOps engineer
+- Refreshed on [Hub-spoke network topology in Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke)
 
 ## TODO
 
