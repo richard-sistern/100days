@@ -157,6 +157,9 @@
 
 - First day as a DevOps engineer
 - Refreshed on [Hub-spoke network topology in Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke)
+- Watched
+  - [Scrum in 16 minutes](https://youtu.be/vuBFzAdaHDY) 
+  - [Scrum Crash Course](https://youtu.be/wNwfFStmtw8)
 
 ## TODO
 
