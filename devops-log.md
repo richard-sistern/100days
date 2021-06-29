@@ -161,6 +161,13 @@
   - [Scrum in 16 minutes](https://youtu.be/vuBFzAdaHDY) 
   - [Scrum Crash Course](https://youtu.be/wNwfFStmtw8)
 
+## Day 30: 27th June 2021
+
+- Second day as a DevOps engineer
+- Closed first ticket (RBAC on Azure Function App)
+- Explored the Azure network at work
+- Started working on first Terraform VM deployment
+
 ## TODO
 
 - BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
