@@ -168,6 +168,11 @@
 - Explored the Azure network at work
 - Started working on first Terraform VM deployment
 
+## Day 31: 28th June 2021
+
+- All things Terraform today
+- Started Managing Infrasture with Terraform course on Pluralsight
+
 ## TODO
 
 - BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
