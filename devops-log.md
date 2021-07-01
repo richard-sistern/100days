@@ -173,6 +173,11 @@
 - All things Terraform today
 - Started Managing Infrasture with Terraform course on Pluralsight
 
+## Day 32: 29th June 2021
+
+- Read up on new [Azure Image Builder Service](https://azure.microsoft.com/en-us/updates/azure-image-builder-service-now-generally-available-2/)
+
+
 ## TODO
 
 - BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
