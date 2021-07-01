@@ -176,6 +176,8 @@
 ## Day 32: 29th June 2021
 
 - Read up on new [Azure Image Builder Service](https://azure.microsoft.com/en-us/updates/azure-image-builder-service-now-generally-available-2/)
+- Deployed and destoryed various resources in Terraform
+- Carried on the Terraform Pluralsight course
 
 
 ## TODO
