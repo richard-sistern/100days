@@ -161,25 +161,30 @@
   - [Scrum in 16 minutes](https://youtu.be/vuBFzAdaHDY) 
   - [Scrum Crash Course](https://youtu.be/wNwfFStmtw8)
 
-## Day 30: 27th June 2021
+## Day 30: 29th June 2021
 
 - Second day as a DevOps engineer
 - Closed first ticket (RBAC on Azure Function App)
 - Explored the Azure network at work
 - Started working on first Terraform VM deployment
 
-## Day 31: 28th June 2021
+## Day 31: 30th June 2021
 
 - All things Terraform today
 - Started Managing Infrasture with Terraform course on Pluralsight
 
-## Day 32: 29th June 2021
+## Day 32: 31st June 2021
 
 - Read up on new [Azure Image Builder Service](https://azure.microsoft.com/en-us/updates/azure-image-builder-service-now-generally-available-2/)
 - Deployed and destoryed various resources in Terraform
 - Carried on the Terraform Pluralsight course
 
+## Day 33: 1st July 2021
 
-## TODO
+- Working with Terraform with a side of Ansible
+- Carried on the Terraform Pluralsight course
 
-- BOOKMARK:https://gitlab.awsworkshop.io/030_self_guided_setup/34_create_vpc.html
+## Day 34: 2nd July 2021
+
+- Working with Terraform with a side of Ansible
+- Carried on the Terraform Pluralsight course
