@@ -188,3 +188,8 @@
 
 - Working with Terraform with a side of Ansible
 - Carried on the Terraform Pluralsight course
+
+## Day 35: 3rd July 2021
+
+- Spent some time trying to improve a Terraform template
+- Carried on with the Terraform Pluralsight course
