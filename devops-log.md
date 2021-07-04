@@ -193,3 +193,8 @@
 
 - Spent some time trying to improve a Terraform template
 - Carried on with the Terraform Pluralsight course
+
+## Day 36: 4th July 2021
+
+- Fininshed beginner Terraform course on Pluralsight 
+- Started intermediate Terraform course on Pluralsight 
