@@ -198,3 +198,12 @@
 
 - Fininshed beginner Terraform course on Pluralsight 
 - Started intermediate Terraform course on Pluralsight 
+
+## Day 37: 5th July 2021
+
+- Finished first Terraform deployment
+  - Compute
+  - Additional disk
+  - Availability set
+  - Count to loop
+- Started work on Ansible configuration  
