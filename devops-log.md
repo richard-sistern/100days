@@ -207,3 +207,8 @@
   - Availability set
   - Count to loop
 - Started work on Ansible configuration  
+
+## Day 38: 6th July 2021
+
+- Finished custom Ansible deployment
+- Read up on [Azure compute boot diagnostics](https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/boot-diagnostics)
