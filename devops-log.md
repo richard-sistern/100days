@@ -212,3 +212,11 @@
 
 - Finished custom Ansible deployment
 - Read up on [Azure compute boot diagnostics](https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/boot-diagnostics)
+
+## Day 39: 7th July 2021
+
+- Working on Ansible today
+   - Files
+   - Folders
+   - Services
+   - Roles and node structure
