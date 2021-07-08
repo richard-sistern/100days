@@ -220,3 +220,9 @@
    - Folders
    - Services
    - Roles and node structure
+
+## Day 40: 8th July 2021
+
+- Deployed a few more applications in Ansible
+- Fixed a few Terraform issues
+- Worked with Bamboo and BitBucket
