@@ -226,3 +226,9 @@
 - Deployed a few more applications in Ansible
 - Fixed a few Terraform issues
 - Worked with Bamboo and BitBucket
+
+## Day 41: 9th July 2021
+
+- Read [Terraform on Azure Pipelines Best Practices](https://julie.io/writing/terraform-on-azure-pipelines-best-practices/)
+- Deployed software with Bamboo
+- Carried on with a Pluralsight course on Terraform
