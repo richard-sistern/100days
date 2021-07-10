@@ -232,3 +232,9 @@
 - Read [Terraform on Azure Pipelines Best Practices](https://julie.io/writing/terraform-on-azure-pipelines-best-practices/)
 - Deployed software with Bamboo
 - Carried on with a Pluralsight course on Terraform
+
+## Day 42: 10th July 2021
+
+- Watched
+  - [DevOps in Real Life](https://youtu.be/e4lJmgd_4DA)
+  - Read [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
