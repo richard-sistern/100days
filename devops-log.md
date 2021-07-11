@@ -237,3 +237,7 @@
 
 - Watched [DevOps in Real Life](https://youtu.be/e4lJmgd_4DA)
 - Read [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
+
+## Day 43: 11th July 2021
+
+- Carried on Pluralsight course about managing remote state in Azure
