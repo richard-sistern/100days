@@ -135,7 +135,7 @@
 
 ## Day 25: 24th June 2021
 
-- Attended a NorDev talk[Refactoring Is Not Just Clickbait](https://youtu.be/SdTzx0R6JIs) by Kevlin Henney
+- Attended a NorDev talk [Refactoring Is Not Just Clickbait](https://youtu.be/SdTzx0R6JIs) by Kevlin Henney
 
 
 ## Day 26: 25th June 2021
@@ -171,12 +171,12 @@
 ## Day 31: 30th June 2021
 
 - All things Terraform today
-- Started Managing Infrasture with Terraform course on Pluralsight
+- Started Managing Infrastructure with Terraform course on Pluralsight
 
 ## Day 32: 31st June 2021
 
 - Read up on new [Azure Image Builder Service](https://azure.microsoft.com/en-us/updates/azure-image-builder-service-now-generally-available-2/)
-- Deployed and destoryed various resources in Terraform
+- Deployed and destroyed various resources in Terraform
 - Carried on the Terraform Pluralsight course
 
 ## Day 33: 1st July 2021
@@ -196,7 +196,7 @@
 
 ## Day 36: 4th July 2021
 
-- Fininshed beginner Terraform course on Pluralsight 
+- Finished beginner Terraform course on Pluralsight 
 - Started intermediate Terraform course on Pluralsight 
 
 ## Day 37: 5th July 2021
