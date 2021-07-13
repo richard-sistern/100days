@@ -249,3 +249,8 @@
   - Managing (or not) backups
   - Importing exiting resources
 - Read a bit more of [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss)
+
+## Day 45: 13th July 2021
+
+- Azure API App
+- Ansbile deployments
