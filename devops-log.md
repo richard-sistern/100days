@@ -254,3 +254,8 @@
 
 - Azure API App
 - Ansbile deployments
+
+## Day 46: 14th July 2021
+
+- Azure Network Watcher
+
