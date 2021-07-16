@@ -262,4 +262,9 @@
 ## Day 47: 15th July 2021
 
 - Read about Terraform ADO pipelines
+- Carried on Pluralsight course on Terraform in Azure
+
+## Day 48: 16th July 2021
+
+- Carried on Pluralsight course on Terraform in Azure
 
