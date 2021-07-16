@@ -259,3 +259,7 @@
 
 - Azure Network Watcher
 
+## Day 47: 15th July 2021
+
+- Read about Terraform ADO pipelines
+
