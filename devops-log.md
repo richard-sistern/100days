@@ -268,3 +268,8 @@
 
 - Carried on Pluralsight course on Terraform in Azure
 
+## Day 49: 17th July 2021
+
+- Pluralsight ADO 
+- Code scanning of Terraform code
+
