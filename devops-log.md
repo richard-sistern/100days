@@ -273,3 +273,18 @@
 - Pluralsight ADO 
 - Code scanning of Terraform code
 
+## Day 50: 18th July 2021
+
+- Carried on Pluralsight course on Terraform in Azure
+- Terraform & Ansible
+
+## Day 51: 19th July 2021
+
+- Carried on Pluralsight course on Terraform in Azure
+- Terraform & Ansible
+
+## Day 52: 20th July 2021
+
+- Carried on Pluralsight course on Terraform in Azure
+- Terraform & Ansible
+- Azure networking
