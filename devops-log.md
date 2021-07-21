@@ -288,3 +288,9 @@
 - Carried on Pluralsight course on Terraform in Azure
 - Terraform & Ansible
 - Azure networking
+
+## DAy 53: 21st July 2021
+
+- ARM
+- New Relic
+- NLB and NSG
