@@ -289,8 +289,12 @@
 - Terraform & Ansible
 - Azure networking
 
-## DAy 53: 21st July 2021
+## Day 53: 21st July 2021
 
 - ARM
 - New Relic
 - NLB and NSG
+
+## Day 54: 22nd July 2021
+
+- Lots of Azure networking in Terraform
