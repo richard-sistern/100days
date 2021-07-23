@@ -298,3 +298,9 @@
 ## Day 54: 22nd July 2021
 
 - Lots of Azure networking in Terraform
+
+## Day 55: 23rd July 2021
+
+- The dogs dinner that is Azure permissions
+- Flow logs and network watcher
+- Terrwform loops
