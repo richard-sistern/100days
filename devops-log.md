@@ -304,3 +304,7 @@
 - The dogs dinner that is Azure permissions
 - Flow logs and network watcher
 - Terraform loops
+
+## Day 56: 24th July 2021
+
+- Terraform CI/CD ADO pipeline
