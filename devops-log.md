@@ -303,4 +303,4 @@
 
 - The dogs dinner that is Azure permissions
 - Flow logs and network watcher
-- Terrwform loops
+- Terraform loops
