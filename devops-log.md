@@ -308,3 +308,7 @@
 ## Day 56: 24th July 2021
 
 - Terraform CI/CD ADO pipeline
+
+## Day 57: 25th July 2021
+
+- Terraform videos on YouTube
