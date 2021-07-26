@@ -312,3 +312,9 @@
 ## Day 57: 25th July 2021
 
 - Terraform videos on YouTube
+
+## Day 58: 26th July 2021
+
+- Fixed some legacy stuff in Rackspace
+- Terraform nesting
+- ADO deployments
