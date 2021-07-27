@@ -318,3 +318,9 @@
 - Fixed some legacy stuff in Rackspace
 - Terraform nesting
 - ADO deployments
+
+## Day 59: 27th July 2021
+
+- Deployed a few things with ADO
+- Took a look at Azure CDN verification
+- Took a look at Azure Firewall
