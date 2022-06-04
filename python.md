@@ -9,3 +9,11 @@
   - Input
   - Variables
 - Introduction to [Thonny](https://thonny.org/), a simple Python IDE
+
+## Day 2
+
+- Data types
+- Numbers
+- Operations
+- Type conversion
+- F-Strings
